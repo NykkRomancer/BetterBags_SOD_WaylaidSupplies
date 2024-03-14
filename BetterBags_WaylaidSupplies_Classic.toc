@@ -1,0 +1,11 @@
+## Interface: 11501
+## Title: BetterBags - Waylaid Supplies
+## Author: Nykk of SoD-US-Wild Growth [Agents of Casual, Horde]
+## Notes: Adds Waylaid Supplies items to BetterBags virtual groups
+## IconTexture: Interface\ICONS\Inv_box_03
+## Version: 1.00
+## Dependencies: BetterBags
+## OptionalDeps: Ace3
+
+data/SOD_WaylaidSupplies.lua
+AddWaylaidSupplies.lua

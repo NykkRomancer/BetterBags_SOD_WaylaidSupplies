@@ -1,0 +1,5 @@
+## Interface: 00000
+## Title: BetterBags_WaylaidSupplies|cFFFF0000 game client not supported|r
+## Notes: BetterBags WaylaidSupplies only supports Classic (SoD)
+
+VersionError.lua
